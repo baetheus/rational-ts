@@ -1,0 +1,29 @@
+{
+  "name": "rational-ts",
+  "version": "0.0.0",
+  "description": "A typescript library for doing rational number math.",
+  "main": "dist/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baetheus/rational-ts.git"
+  },
+  "keywords": [
+    "math",
+    "rational",
+    "numbers",
+    "typescript"
+  ],
+  "author": "Brandon Blaylock <brandon@null.pub>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/baetheus/rational-ts/issues"
+  },
+  "homepage": "https://github.com/baetheus/rational-ts#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
